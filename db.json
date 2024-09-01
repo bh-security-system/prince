@@ -1,0 +1,10 @@
+{
+  "address": [
+    {
+      "url": "https://ava.perfumesperfect.com//api_post.php",
+      "get_url": "https://ava.perfumesperfect.com/api_get.php",
+      "url_server": "https://ava.perfumesperfect.com/server_none.png",
+      "url_user": "https://ava.perfumesperfect.com/user_ban.png"
+    }
+  ]
+}
