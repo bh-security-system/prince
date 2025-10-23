@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://per.rohande.sbs/postN.php",
-      "get": "https://per.rohande.sbs/getN.php",
-      "server": "https://per.rohande.sbs/server_none.png",
-      "user": "https://per.rohande.sbs/user_ban.png"
+      "post": "https://Prince.rohande.sbs/postN.php",
+      "get": "https://Prince.rohande.sbs/getN.php",
+      "server": "https://Prince.rohande.sbs/server_none.png",
+      "user": "https://Prince.rohande.sbs/user_ban.png"
     }
   ]
 }
